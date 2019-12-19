@@ -1,0 +1,77 @@
+{
+    "name": "Aria Systems",
+    "description": "Maximize your recurring revenues with a leading subscription billing software that specializes in enterprise commerce. Learn more about Aria Systems!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2717-aria-systems.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "monetization"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aria-systems\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Aria Systems",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2717-aria-systems.jpg",
+            "humanURL": "http:\/\/www.ariasystems.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aria-systems-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.ariasystems.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.ariasystems.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/aria-systems"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/aria-systems"
+        },
+        {
+            "type": "Email",
+            "url": "sales@ariasystems.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@ariasystems.com"
+        },
+        {
+            "type": "Email",
+            "url": "customersupport@ariasystems.com"
+        },
+        {
+            "type": "Email",
+            "url": "partners@ariasystems.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@ariasystems.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ariasystemsinc"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ariasystems.com\/"
+        }
+    ]
+}
